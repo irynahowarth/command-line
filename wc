@@ -1,0 +1,5 @@
+wc is a shell command that takes input or file and gives as an output amount of lines | words | symbols.
+can be used with parameters:
+ -l     outputs line counts only
+ -w     outputs word counts only
+ -s     outputs symbols counts only
